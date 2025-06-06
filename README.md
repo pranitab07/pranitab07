@@ -63,6 +63,9 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitab07&layout=compact&theme=radical)
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=pranitab07&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+
+---
 
 ## 🎯 Currently Working On
 - Building **QueryPilot** – an AI Copilot that autocompletes SQL in tools like Workbench  
