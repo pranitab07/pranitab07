@@ -22,16 +22,15 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2E4A62?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-00B050?style=for-the-badge)
 
 ---
 
 ### Concepts & Specializations
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-191970?style=for-the-badge)
 ![MLOps](https://img.shields.io/badge/-MLOps-0A192F?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-00B050?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/-EDA-F28C28?style=for-the-badge)
 ![Hyperparameter Tuning](https://img.shields.io/badge/-Hyperparameter%20Tuning-DA70D6?style=for-the-badge)
 
@@ -40,29 +39,16 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-102F56?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-
-## 🚀 Projects I worked on
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [QueryPilot](https://github.com/pranitab07/SQL_Query_Completion) | AI-powered SQL Copilot that integrates with SQL Workbench or PostgreSQL GUIs to auto-complete queries, and suggest optimizations in real time | LangChain, PyAutoGUI, SQL, LLMs |
-| [AI Business Insight Generator](https://github.com/adityasarade/AI-Powered-Business-Insight-Generator) | Auto-summarizes and provide detailed reports on stocks data with charts | LangChain, Plotly, Streamlit |
-| [DataGraph](https://github.com/pranitab07/Data-Graph) | Web app to generate charts from CSV/Excel files | Streamlit, Pandas, Matplotlib |
-| [Bollywood Movie Recommender](https://github.com/pranitab07/Movie_recommendation_system) | Suggests movies using cosine similarity | Streamlit, scikit-learn |
-| [Crime Record Management System](https://github.com/pranitab07/Crime-Record-Management-System) | FIR & charge-sheet tracking system for citizens and police | Django, PostgreSQL, Bootstrap |
 ---
 
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranitab07&layout=compact&theme=radical)
 
----
 ![GitHub Streak](https://streak-stats.demolab.com?user=pranitab07&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
