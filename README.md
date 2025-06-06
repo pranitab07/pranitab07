@@ -75,7 +75,6 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 
 - 💌 Email: [pranitabobade@email.com](mailto:pranitabobade@email.com)  
 - 💼 LinkedIn: [linkedin.com/in/pranitabobade](https://www.linkedin.com/in/pranita-bobade-21b02625b/)  
-- 🌐 Portfolio: [pranitabobade.dev](#)
 
 ---
 
