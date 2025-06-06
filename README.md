@@ -6,7 +6,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 
 ## 🧰 Tech Stack
 
-### 🧠 Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -15,7 +15,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 
 ---
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
@@ -26,7 +26,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 
 ---
 
-### 🧠 Concepts & Specializations
+### Concepts & Specializations
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-191970?style=for-the-badge)
@@ -37,7 +37,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence and Data Science*
 
 ---
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-102F56?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
